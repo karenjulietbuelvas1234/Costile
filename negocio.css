@@ -1,0 +1,50 @@
+*{
+margin:0;
+padding:0;
+}
+
+#header:{
+	height:15%;
+	background:#FFFF00;
+	border-radius:1em;
+	margin:1em;
+}
+#nav:{
+	height:10%;
+	background:#F5E559;
+	border-radius:1em;
+	margin:1em;
+}
+
+
+#section{
+height:190%;
+width:70%;
+background:#DFCFAA;
+}
+#article{
+    width:97%;
+	height:100%;
+	background:#F0E5CC;
+	margin:0.8em;
+border-radius:0.8em;
+}
+
+#aside{
+	height:195%;
+	width:29%;
+	background:#DAF7A6;
+	border-radius:1em;
+	float: right;
+	margin=0.5em;
+}
+
+#footer{
+height:fixed;
+background:#A77E59;
+border-radius: 1em;
+margin:1em;
+bottom = 0;
+position:center;
+
+}
